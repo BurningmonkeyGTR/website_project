@@ -1,0 +1,25 @@
+body{background-color: deepskyblue; background-image: url("clouds.gif"); background-size: 100%;}
+.splash{display:flex; align-items: center; flex-direction:column; justify-content: flex-start;}
+h1{color: orangered; -webkit-text-stroke: 0.2px white; font-family: 'Mukta', sans-serif; font-size: xx-large; margin: 0px;}
+.navbar{position: sticky; left:0; top: 0; width: 100%; font-family: 'Mukta', sans-serif; font-size: xx-large; padding: 0px; margin-top: 0px;}
+.nav{float:right; margin-left: 50px; position:sticky}
+.mainpagelinks{display:flex; font-size: xx-large; font-family: 'Mukuta', sans-serif; justify-content: space-evenly; margin-top: 50px;}
+p{font-family: 'Mukta', sans-serif; padding: 0px; margin-bottom: 0px; margin-left: 50px; margin-right: 50px;}
+.footer{background-color: black; position: fixed; left: 0; bottom: 0; width: 100%; text-align: center;}
+a.nav:link{color: orangered; -webkit-text-stroke: 0.2px white; font-size: xx-large;}
+a.nav:hover{color: yellow; font-size: xx-large;}
+a.nav:visited{color: orangered; -webkit-text-stroke: 0.2px white; font-size: xx-large;}
+a.navl:link{color: orangered; -webkit-text-stroke: 0.2px white; font-size: xx-large;}
+a.navl:hover{color: yellow; font-size: xx-large;}
+a.navl:visited{color: orangered; -webkit-text-stroke: 0.2px white; font-size: xx-large;}
+a.foot:link{color: orangered; font-size: large;}
+a.foot:hover{color: yellow; font-size: large;}
+a.foot:visited{color: orangered; font-size: large;}
+a:link{color: goldenrod; font-size: xx-large;}
+a:hover{color: orangered; font-size: xx-large;}
+a:visited{color: orangered; font-size: xx-large;}
+.foot{color: orangered; font-family: 'Mukuta', sans-serif; font-size: small; margin-left: 50px; margin-right: 50px;}
+h2{-webkit-text-stroke: 0.2px white; font-family: 'Mukta', sans-serif; font-size: x-large; text-align: center;}
+.multipleimage{display: flex; flex-direction: row; justify-content: space-evenly;}
+#battle{margin-left: auto; margin-right: auto;}
+body{margin-bottom:100px;}
