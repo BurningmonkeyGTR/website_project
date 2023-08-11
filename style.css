@@ -15,8 +15,8 @@ a.navl:visited{color: orangered; -webkit-text-stroke: 0.2px white; font-size: xx
 a.foot:link{color: orangered; font-size: large;}
 a.foot:hover{color: yellow; font-size: large;}
 a.foot:visited{color: orangered; font-size: large;}
-a:link{color: goldenrod; font-size: xx-large;}
-a:hover{color: orangered; font-size: xx-large;}
+a:link{color: orangered; font-size: xx-large;}
+a:hover{color: yellow; font-size: xx-large;}
 a:visited{color: orangered; font-size: xx-large;}
 .foot{color: orangered; font-family: 'Mukuta', sans-serif; font-size: small; margin-left: 50px; margin-right: 50px;}
 h2{-webkit-text-stroke: 0.2px white; font-family: 'Mukta', sans-serif; font-size: x-large; text-align: center;}
